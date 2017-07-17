@@ -4,7 +4,7 @@ title: 'Black Desert Latam: Olympo.'
 date: 2017-07-17 17:32:34
 categories: blog development
 tags: Cuban "Game" "Mrtroll"
-featured_image: 'https://cdn.discordapp.com/attachments/233378950233980928/336619996098592768/2017-07-17_121166285.JPG'
+featured_image: 'http://cdn.wccftech.com/wp-content/uploads/2016/06/Black-Desert-Online-04-Standing-In-Town.jpg'
 lead_text: 'Mr cuban Olympo:'
 ---
 
