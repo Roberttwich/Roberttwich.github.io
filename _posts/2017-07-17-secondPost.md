@@ -7,5 +7,4 @@ tags: Cuban "Game" "Mrtroll"
 featured_image: 'https://cdn.discordapp.com/attachments/233378950233980928/336619996098592768/2017-07-17_121166285.JPG'
 lead_text: 'Olympo:'
 ---
-
 Mr cuban Olympo acabando con los troles del Lan server en Black Desert Online.
