@@ -1,10 +1,10 @@
 # Site Settings
-title: 'Juan Peralta'
+title: 'Roberttwich'
 description: 'My portfolio'
 url: 'https://Roberttwich.github.io' # the base hostname & protocol for your site
-footer_text: '&copy; Juan Peralta.'
+footer_text: '&copy; Roberttwich.'
 
 # Admin Settings
-admin_name: 'Juan Peralta'
+admin_name: 'Roberttwich'
 admin_email: 'example@mail.com'
 
