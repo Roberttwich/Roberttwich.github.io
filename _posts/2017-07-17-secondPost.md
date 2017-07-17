@@ -8,4 +8,4 @@ featured_image: 'https://cdn.discordapp.com/attachments/233378950233980928/33661
 lead_text: 'Mr cuban Olympo:'
 ---
 
-Mr cuban Olympo acabando con los troles del Lan server en Black Desert Online.
+Mr cuban Olympo acabando con los troles del Lan server en Black Desert Online. 999LT, 15++ weapon-armor, RnGjesus!!!
