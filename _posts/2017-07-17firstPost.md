@@ -4,8 +4,7 @@ title: 'You missed out on one awful big step Us people took.'
 date: 2017-07-17 09:45:34
 categories: blog development
 tags: Guthrie "Game" "new world"
-featured_image: 'https://media.playstation.com/is/image/SCEA/mass-effect-andromeda-art-01-ps4-us-21oct16?$MediaCarousel_Original$'
-lead_text: 'JRP. [Public domain], via Wikimedia Commons.'
+featured_image: 'https://c1.staticflickr.com/8/7463/27557588891_e1579f462b_b.jpg'
+lead_text: 'BagoGames E3 2016: New Mass Effect: Andromeda Trailer Released EA and BioWare have shown a new trailer for Mass Effect: Andromeda with gameplay. More information will come this Fall. Powered by EA's Frostbite 3, the game has been confirmed to have a whole new cast, "more freedom," and "reote hostile planets" that is "teeming with alien life and. [Public domain], via Wikimedia Commons.'
 ---
-
-Displaying some Mass Effect word.
+Display Mass Effect picture
