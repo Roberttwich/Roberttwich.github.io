@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: 'You missed out on one awful big step Us people took.'
+title: 'Mass Effect New World.'
 date: 2017-07-17 09:45:34
 categories: blog development
 tags: Guthrie "Game" "new world"
